@@ -55,7 +55,7 @@ nav{
 .table-cell-td {
   display: table-cell;
   padding: 20px 7px;
-  border-left: 1px solid rgba(149, 165, 166,0.8);
+  
   text-align: center;
   width: 20%;
 }
@@ -123,6 +123,42 @@ footer{
     margin-left: auto;
     margin-right: auto;
 }
+.panel-icon {
+    padding: 30px;
+    width: 40%;
+    border-radius: 0;
+}
+.bg-ground {
+    background-color: #2584d1;
+}
+.panel-box {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border: none;
+}
+.panel-icon {
+    -webkit-border-radius: 3px 0 0 3px;
+    -moz-border-radius: 3px 0 0 3px;
+    border-radius: 3px 0 0 3px;
+}
+.panel-icon i {
+    line-height: 65px;
+    font-size: 40px;
+    color: #fff;
+      }
+
+.panel-value {
+    -webkit-border-radius: 0 3px 3px 0;
+    -moz-border-radius: 0 3px 3px 0;
+    border-radius: 0 3px 3px 0;
+}
+.panel-value {
+    width: 60%;
+}
+.panel-value h2 {
+    margin-top: 30px;
+}
 #carrito-compras-tienda{
     width: 100%;
     padding: 20px;
@@ -134,7 +170,7 @@ footer{
 }
 /* ========================================= index styles ======================================*/
 #container-page-index{
-    background-image: url(../assets/img/font-index.JPG);	
+    background-image: url(../assets/img/header2.JPG);	
 }
 #jumbotron-index{
     margin: 0px;
@@ -155,7 +191,7 @@ footer{
 }
 /* ========================================= product styles ======================================*/
 #container-page-product{
-    background-image: url(../assets/img/font-index.JPG);
+    background-image: url(../assets/img/header2.JPG);
 }
 #store, #infoproduct, #container-pedido{
     background-color: rgba(255,255,255,.97);
@@ -163,7 +199,7 @@ footer{
 }
 /* ========================================= registration styles ======================================*/
 #container-page-registration{
-    background-image: url(../assets/img/font-registration.jpg);
+    background-image: url(../assets/img/header2.jpg);
 }
 #form-registration{
     min-height: 900px;
@@ -178,7 +214,7 @@ footer{
 }
 /* ========================================= configAdmin styles ======================================*/
 #container-page-configAdmin{
-    background-image: url(../assets/img/font-index.JPG);
+    background-image: url(../assets/img/header2.JPG);
 }
 #prove-product-cat-config{
     background-color: #fff;
@@ -188,7 +224,7 @@ footer{
 #del-prod-form,
 #add-categori,
 #del-categori,
-#add-provee,
+#control-panel,
 #del-prove,
 #add-admin,
 #del-admin,

@@ -59,17 +59,17 @@ photography</span> <small style="color: #fff;">El Salvador</small></h1>
                    <article style="margin-top:20%;">
                         <p><i class="fa fa-users fa-4x"></i></p>
                         <h3>Registrate</h3>
-                        <p>Registrese y hagase cliente de <span class="tittles-pages-logo">Cat Electronics</span> para recibir las mejores ofertas y descuentos especiales de nuestros productos.</p>
+                        <p>Registrese y hagase cliente de <span class="tittles-pages-logo">IXPA ECOMERCE</span> para recibir las mejores ofertas y descuentos especiales de nuestros productos.</p>
                         <p><a href="registration.php" class="btn btn-info btn-block">Registrarse</a></p>   
                    </article>
                 </div>
                 <div class="col-xs-12 col-sm-6">
-                    <img src="assets/img/Smart-TV-RegInfo.png" alt="Smart-TV" class="img-responsive">
+                    <img src="assets/img/color-tv.png" alt="Smart-TV" class="img-responsive">
                 </div>
             </div>
         </div>
     </section>
-    <section id="distribuidores-index">
+   <!-- <section id="distribuidores-index">
         <div class="container">
             <div class="col-xs-12 col-sm-6">
 
@@ -85,7 +85,7 @@ photography</span> <small style="color: #fff;">El Salvador</small></h1>
                 <img src="assets/img/logos-marcas.png" alt="logos-marcas" class="img-responsive">
             </div>
         </div>
-    </section>
+    </section>-->
     <?php include './inc/footer.php'; 
 
 
