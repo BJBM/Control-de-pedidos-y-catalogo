@@ -93,7 +93,7 @@ footer{
     width: 100%;
     color: #fff;
     background-color: #0862aa;
-    padding: 40px 0px;
+    padding: 1px 0px;
 }
 .social-icon{
     margin: 7px 7px;
@@ -159,6 +159,9 @@ footer{
 .panel-value h2 {
     margin-top: 30px;
 }
+.tittle-footer{
+    width: 10%;
+}
 #carrito-compras-tienda{
     width: 100%;
     padding: 20px;
@@ -170,7 +173,7 @@ footer{
 }
 /* ========================================= index styles ======================================*/
 #container-page-index{
-    background-image: url(../assets/img/header2.JPG);	
+    background-image: url(../assets/img/fondo.JPG);	
 }
 #jumbotron-index{
     margin: 0px;
@@ -191,7 +194,7 @@ footer{
 }
 /* ========================================= product styles ======================================*/
 #container-page-product{
-    background-image: url(../assets/img/header2.JPG);
+    background-image: url(../assets/img/fondo.JPG);
 }
 #store, #infoproduct, #container-pedido{
     background-color: rgba(255,255,255,.97);
@@ -199,7 +202,7 @@ footer{
 }
 /* ========================================= registration styles ======================================*/
 #container-page-registration{
-    background-image: url(../assets/img/header2.jpg);
+    background-image: url(../assets/img/fondo.jpg);
 }
 #form-registration{
     min-height: 900px;
@@ -214,7 +217,7 @@ footer{
 }
 /* ========================================= configAdmin styles ======================================*/
 #container-page-configAdmin{
-    background-image: url(../assets/img/header2.JPG);
+    background-image: url(../assets/img/fondo.JPG);
 }
 #prove-product-cat-config{
     background-color: #fff;
@@ -233,3 +236,4 @@ footer{
     border-radius: 4px;
     padding: 10px;
 }
+
